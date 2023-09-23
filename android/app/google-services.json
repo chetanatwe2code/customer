@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "534892460662",
+    "project_id": "nursery-17acf",
+    "storage_bucket": "nursery-17acf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534892460662:android:20c4a5ae53460395357d57",
+        "android_client_info": {
+          "package_name": "com.indiaki.nursery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534892460662-i7pk0994b1r2rp0olnd00rkkmg42jqk7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.indiaki.nursery",
+            "certificate_hash": "22215b43f66e528efbddd6513664a4f736db4fc5"
+          }
+        },
+        {
+          "client_id": "534892460662-os4s2g0trdct08p2a04gb0u94qdhmdk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK2qsIQXfE_x-P1XTV2wc60cbzcdBOrpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534892460662-nnhuf314b9edr2g147ta4s129g26eo0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

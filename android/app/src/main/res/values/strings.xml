@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nursery</string>
+    <string name="facebook_app_id">1740273323058861</string>
+    <string name="fb_login_protocol_scheme">ed312d0de722587130a45117633e3d6b</string>
+    <string name="facebook_client_token">5bb3621c36795fa7857a510959dd4d73</string>
+
+
+</resources>
